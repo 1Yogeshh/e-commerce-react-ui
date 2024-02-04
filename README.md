@@ -1,5 +1,6 @@
 Signup
 ![signup-ee](https://github.com/1Yogeshh/e-commerce-react-ui/assets/117355987/8f7dc2ca-b1b6-4049-ac3a-01dc727195a7)
+Home Page
 ![home1-ee](https://github.com/1Yogeshh/e-commerce-react-ui/assets/117355987/35ca8c55-d3f7-4d79-a078-2e95b35e5cf7)
 ![home2-ee](https://github.com/1Yogeshh/e-commerce-react-ui/assets/117355987/ad5a5b0a-fc0e-4cc2-b1ba-86c890662b10)
 ![home-ee](https://github.com/1Yogeshh/e-commerce-react-ui/assets/117355987/c7ffedc1-a726-4de8-8321-2976570465f6)
