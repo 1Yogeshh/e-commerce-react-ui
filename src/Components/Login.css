@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login-back{
+    background: linear-gradient(to right,rgb(138, 105, 105),blue);
+    margin: 0;
+    height: 750px;
+    width: 1550px;
+    padding: 100px 0px 0px 0px ;
+}
+.login-page{
+    background-color: white;
+    padding: 40px 0px 10px 60px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+    margin-top: auto;
+    width: 450px;
+}
+.login-heading{
+
+}
+.login-heading p{
+    font-size: 30px;
+
+    font-weight: 700;
+    color: blue;
+}
+.login-heading-1{
+
+}
+.login-heading-1 p{
+    font-size: 27px ;
+    font-weight: 700;
+}
+.login-para{
+    margin-top: 5px;
+}
+.login-para p{
+    color: #959595;
+    font-size: 15px;
+    font-weight: 500;
+}
+.login-input-1{
+    margin-top: 15px;
+}
+.login-input-1 p{
+    font-size: 15px ;
+    font-weight: 500;
+    margin-bottom: 3px;
+}
+.login-input-1 input{
+    width: 350px;
+    height: 30px;
+    font-size: 14px;
+    border: none;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    padding: 0px 0px 0px 5px ;
+}
+.login-input-2{
+    margin-top: 15px;
+}
+.login-input-2 p{
+    font-size: 15px ;
+    font-weight: 500;
+    margin-bottom: 3px;
+}
+.login-input-2 input{
+    width: 350px;
+    height: 30px;
+    font-size: 14px;
+    border: none;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    padding: 0px 0px 0px 5px ;
+}
+
+.login-button{
+    margin-top: 25px;
+}
+.login-button button{
+    width: 360px;
+    height: 35px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    transition: all 0.3s;
+    
+}
+.login-button button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: blue;
+    border: 0.5px solid blue;
+
+}
+
+.login-to-create{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.login-to-create p{
+    color: black;
+    font-size: 15px ;
+    font-weight: 500;
+}
+.login-to-create p a{
+    color: blue;
+}
+.login-to-create p a:hover{
+    cursor: pointer;
+}
