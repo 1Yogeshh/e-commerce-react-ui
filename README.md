@@ -1,3 +1,6 @@
+![signup-ee](https://github.com/1Yogeshh/e-commerce-react-ui/assets/117355987/8f7dc2ca-b1b6-4049-ac3a-01dc727195a7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
